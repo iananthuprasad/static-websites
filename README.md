@@ -1,1 +1,1 @@
-﻿# Responsive static-websites
+﻿# static-websites
